@@ -1,0 +1,14 @@
+
+> chatgpt-web@2.10.9 dev /Users/hsgmac/Desktop/project/gpt/chatgpt-web
+> vite
+
+
+  VITE v4.2.0  ready in 222 ms
+
+  ➜  Local:   http://localhost:1002/
+  ➜  Network: http://192.168.3.17:1002/
+11:29:32 AM [vite] service/.env changed, restarting server...
+11:29:32 AM [vite] server restarted.
+11:29:33 AM [vite] service/.env changed, restarting server...
+11:29:33 AM [vite] server restarted.
+ ELIFECYCLE  Command failed.
